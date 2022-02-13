@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc2c6c9c079b2eb418c0986f0895f611
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Unicorns are Awesome
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6448f4a1bdd53054191864fec53b85ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
